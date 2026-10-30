@@ -1,0 +1,12 @@
+*{box-sizing:border-box}body{margin:0;font-family:Georgia,"Times New Roman",serif;color:#1d1d1b;background:#faf8f4;line-height:1.65}
+header,footer{background:#1f3a34;color:#f3efe6}header a,footer a{color:#f3efe6}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px}
+header .wrap{display:flex;justify-content:space-between;align-items:center;padding:18px 20px}
+header .logo{font-size:1.3rem;font-weight:bold;text-decoration:none}
+nav a{margin-left:16px;font-family:Arial,sans-serif;font-size:.9rem}
+main{padding:30px 0 50px}h1{font-size:2rem;line-height:1.25}h2{margin-top:2em;border-bottom:1px solid #d9d3c7;padding-bottom:4px}
+.notice{font-family:Arial,sans-serif;font-size:.85rem;background:#efe9dc;border-left:4px solid #b6873a;padding:10px 14px;margin:20px 0}
+.card{background:#fff;border:1px solid #e3ddd0;border-radius:8px;padding:16px 20px;margin:14px 0}
+.card a{font-weight:bold}table{width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:.92rem}
+th,td{border-bottom:1px solid #e3ddd0;padding:8px;text-align:left;vertical-align:top}th{background:#efe9dc}
+footer{font-family:Arial,sans-serif;font-size:.82rem;padding:24px 0}
